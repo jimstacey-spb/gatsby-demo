@@ -1,0 +1,14 @@
+.main-page {
+  &__title {
+    font-size: 64px;
+    text-align: center;
+  }
+  &__flag {
+    margin: 50px auto;
+    max-width: 500px;
+    img {
+      display: block;
+      max-width: 100%;
+    }
+  }
+}

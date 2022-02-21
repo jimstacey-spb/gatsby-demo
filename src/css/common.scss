@@ -1,0 +1,49 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+:root {
+  --topbar-height: 40px;
+  --topbar-background: #343434;
+  --static-color-state-modifier: 4%;
+  --color-gold-hue: 41.25;
+  --color-gold-saturation: 48.48485%;
+  --color-gold-lightness: 74.11765%;
+  --color-gold: hsl(var(--color-gold-hue), var(--color-gold-saturation), var(--color-gold-lightness));
+  --color-gold-hover: hsl(var(--color-gold-hue), var(--color-gold-saturation), calc(var(--color-gold-lightness) + var(--static-color-state-modifier)));
+  --color-gold-active: hsl(var(--color-gold-hue), var(--color-gold-saturation), calc(var(--color-gold-lightness) - var(--static-color-state-modifier)));
+}
+
+body {
+  background-color: #eee;
+  font-family: Roboto, sans-serif;
+  padding-top: var(--topbar-height);
+  white-space: pre-line;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--topbar-background);
+  height: var(--topbar-height);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 5001;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+  padding: 0 32px;
+
+  &__menu-item {
+    color: #fff;
+    font-size: 14px;
+    font-weight: var(--text-font-weight-semibold);
+    text-decoration: none;
+    margin-left: 21px;
+
+    &--active {
+      color: var(--color-gold)
+    }
+  }
+}

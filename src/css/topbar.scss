@@ -1,0 +1,41 @@
+:root {
+  --topbar-height: 40px;
+  --topbar-background: #343434;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--topbar-background);
+  height: var(--topbar-height);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 5001;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+  padding: 0 32px;
+
+  &__menu-item {
+    color: #fff;
+    font-size: 14px;
+    font-weight: var(--text-font-weight-semibold);
+    text-decoration: none;
+    margin-left: 21px;
+
+    &--active {
+      color: var(--color-gold)
+    }
+  }
+
+  &__language-change {
+    position: absolute;
+    top: 4px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 16px;
+    img {display: block; height: 32px; cursor: pointer}
+  }
+}

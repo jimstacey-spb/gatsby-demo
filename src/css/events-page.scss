@@ -1,0 +1,25 @@
+.events-page {
+  &__intro {
+    position: relative;
+    overflow: hidden;
+    padding: 48px 0 64px;
+    display: flex;
+    justify-content: center;
+  }
+
+  &__photos {
+    gap: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 1;
+
+    img {
+      display: block;
+      max-height: 150px;
+    }
+  }
+
+}
+
