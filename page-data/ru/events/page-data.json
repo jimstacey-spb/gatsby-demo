@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-events-js",
+    "path": "/ru/events/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"common","data":"{\"html_title\":\"Партнерка\",\"about\":\"О нас\",\"contests\":\"Конкурсы\",\"events\":\"Мероприятия\"}","language":"ru"}},{"node":{"ns":"events-page","data":"{\"events_page.title\":\"Мероприятия\",\"events_page.subtitle\":\"Будем рады новым знакомствам и встречам с партнерами :)\",\"events_page.dogs_dialog\":\"-Тебе нравятся пёсики?\\n -Пёсики? \\n -Да, пёсики. \\n-А, собаки. Да, пёсики мне нравятся.\"}","language":"ru"}}]}},"pageContext":{"language":"ru","i18n":{"language":"ru","languages":["en","ru"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/events/","path":"ru/events/"}}},
+    "staticQueryHashes": []}

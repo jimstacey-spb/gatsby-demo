@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[796],{6386:function(e,t,n){n.r(t);var l=n(7294),a=n(5434),s=n(1597),c=n(7782);t.default=function(){var e=(0,c.useI18next)().t;return l.createElement(a.Z,null,l.createElement("h5",null,l.createElement(s.Link,{to:"/contests"},e("contests_page.title"))),l.createElement("h1",null,e("india_contest_page.title")),l.createElement("h2",null,e("india_contest_page.text")))}}}]);
+//# sourceMappingURL=component---src-pages-contests-india-js-04161c37f56735485bda.js.map

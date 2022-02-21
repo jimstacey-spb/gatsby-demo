@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[42],{2956:function(e,t,n){n.r(t);var a=n(7294),l=n(5434),c=n(1597),s=n(7782);t.default=function(){var e=(0,s.useI18next)().t;return a.createElement(l.Z,null,a.createElement("h5",null,a.createElement(c.Link,{to:"/contests"},e("contests_page.title"))),a.createElement("h1",null,e("africa_contest_page.title")),a.createElement("h2",null,e("africa_contest_page.text")))}}}]);
+//# sourceMappingURL=component---src-pages-contests-africa-js-cb0e9abcd07c02e8bea7.js.map

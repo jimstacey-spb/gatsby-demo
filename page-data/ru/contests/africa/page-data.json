@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contests-africa-js",
+    "path": "/ru/contests/africa/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"common","data":"{\"html_title\":\"Партнерка\",\"about\":\"О нас\",\"contests\":\"Конкурсы\",\"events\":\"Мероприятия\"}","language":"ru"}},{"node":{"ns":"africa-contest-page","data":"{\"africa_contest_page.title\":\"Страница африканского конкурса\",\"africa_contest_page.text\":\"Чёрные панте́ры — тёмноокрашенные особи из рода пантер, представляющих собой генетический вариант окраски — проявление меланизма. Чёрная пантера не является самостоятельным видом, это леопард (азиатский, африканский) или ягуар.\"}","language":"ru"}},{"node":{"ns":"contests-page","data":"{\"contests_page.title\":\"Страница конкурсов\",\"contests_page.africa\":\"Конкурс на африканское гео\",\"contests_page.india\":\"Конкурс на индийское гео\"}","language":"ru"}}]}},"pageContext":{"language":"ru","i18n":{"language":"ru","languages":["en","ru"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/contests/africa/","path":"ru/contests/africa/"}}},
+    "staticQueryHashes": []}

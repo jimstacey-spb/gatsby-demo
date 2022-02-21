@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"common","data":"{\"html_title\":\"Partnerka\",\"about\":\"About\",\"affiliates\":\"Affiliates\",\"contests\":\"Contest\",\"events\":\"Events\"}","language":"en"}},{"node":{"ns":"main-page","data":"{\"html_head_title\":\"Main page - HTML Meta Tag\",\"html_meta_description\":\"New main page\",\"title\":\"Main page\"}","language":"en"}}]}},"pageContext":{"language":"en","i18n":{"language":"en","languages":["en","ru"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/","path":"/"}}},
+    "staticQueryHashes": []}

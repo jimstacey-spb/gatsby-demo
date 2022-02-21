@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contests-index-js",
+    "path": "/contests/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"common","data":"{\"html_title\":\"Partnerka\",\"about\":\"About\",\"affiliates\":\"Affiliates\",\"contests\":\"Contest\",\"events\":\"Events\"}","language":"en"}},{"node":{"ns":"contests-page","data":"{\"contests_page.title\":\"Contests page\",\"contest_page.africa\":\"African GEO contest\",\"contest_page.india\":\"India GEO contest\"}","language":"en"}}]}},"pageContext":{"language":"en","i18n":{"language":"en","languages":["en","ru"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/contests/","path":"/contests/"}}},
+    "staticQueryHashes": []}

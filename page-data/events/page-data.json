@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-events-js",
+    "path": "/events/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"common","data":"{\"html_title\":\"Partnerka\",\"about\":\"About\",\"affiliates\":\"Affiliates\",\"contests\":\"Contest\",\"events\":\"Events\"}","language":"en"}},{"node":{"ns":"events-page","data":"{\"events_page.title\":\"Events\",\"events_page.subtitle\":\"We will be glad to get to know new people and meet with partners ;)\",\"events_page.dogs_dialog\":\"-do you like dags?\\n -dags?\\n -yeah dags\\n -oh dogs yeah i like dags\"}","language":"en"}}]}},"pageContext":{"language":"en","i18n":{"language":"en","languages":["en","ru"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/events/","path":"/events/"}}},
+    "staticQueryHashes": []}

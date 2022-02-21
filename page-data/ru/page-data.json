@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/ru/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"common","data":"{\"html_title\":\"Партнерка\",\"about\":\"О нас\",\"contests\":\"Конкурсы\",\"events\":\"Мероприятия\"}","language":"ru"}},{"node":{"ns":"main-page","data":"{\"html_head_title\":\"Глагне - HTML Meta Tag\",\"html_meta_description\":\"Новая главная страница\",\"title\":\"Глагне\"}","language":"ru"}}]}},"pageContext":{"language":"ru","i18n":{"language":"ru","languages":["en","ru"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/","path":"ru/"}}},
+    "staticQueryHashes": []}
